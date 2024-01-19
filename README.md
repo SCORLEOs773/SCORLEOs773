@@ -6,7 +6,7 @@ I have a solid background in web development, and I'm constantly expanding my kn
 
 <!--Throughout my journey, I've had the opportunity to work on a variety of fascinating projects, including [mention notable projects or accomplishments]. These experiences have helped me develop a robust problem-solving mindset and honed my skills in [specific skills/technologies you specialize in].-->
 
-In addition to my technical pursuits, I enjoy sharing my knowledge and insights with others. I write blog posts, create tutorials, and engage in discussions on various platforms. I believe in the importance of fostering a supportive and inclusive tech community.
+In addition to my technical pursuits, I enjoy sharing my knowledge and insights with others. I write blog posts, and engage in discussions on various platforms. I believe in the importance of fostering a supportive and inclusive tech community.
 
 You can explore my repositories, where you'll find a mix of personal projects, contributions to open-source projects, and experiments. Don't hesitate to reach out if you have any questions, or ideas, or want to collaborate on something exciting!
 
