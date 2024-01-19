@@ -35,26 +35,26 @@ Here are some of the technologies I enjoy working with:
 ![C](https://img.icons8.com/?size=48&id=40670&format=png) ![C++](https://img.icons8.com/?size=48&id=40669&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
 
 ### Web Development
-![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ![Tailwind](https://img.icons8.com/?size=80&id=WoopfRcDj3RF&format=png) ![Material UI](https://mui.com/static/logo.png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
+![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ![Tailwind](https://img.icons8.com/?size=80&id=WoopfRcDj3RF&format=png) ![Material UI](https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
 
 ### Front-End
 ![ReactJS](https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png)
 
 ### Back-End
-![NodeJS](https://image.shutterstock.com/image-vector/node-js-version-7-framework-260nw-503131780.jpg) ![ExpressJS](https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png)
+![NodeJS](https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png) ![ExpressJS](https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png)
 
 ### Databases
-![MongoDB](link-to-image) ![REDIS](link-to-image) ![MySQL](link-to-image)
+![MongoDB](https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png) ![REDIS](https://img.icons8.com/?size=80&id=lhwQTv6iwznO&format=png) ![MySQL](https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png)
 
 ### Frameworks
-![SpringBoot](link-to-image)
+![SpringBoot](https://img.icons8.com/?size=48&id=90519&format=png)
 
 ### Mobile Development
-![Android](link-to-image)
-![Kotlin](link-to-image)
+![Android](https://img.icons8.com/?size=48&id=17836&format=png)
+![Kotlin](https://img.icons8.com/?size=80&id=pW9tHQnl55j4&format=png)
 
 ### Full Stack
-![MERN Stack](link-to-image)
+![MERN Stack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzZxSdsXADqLsAvi0ErXBtP4JEG-7f0iRQQ&usqp=CAU)
 
 <!-- Add any other technologies you'd like to showcase -->
 
