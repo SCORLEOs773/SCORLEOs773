@@ -54,8 +54,7 @@ Here are some of the technologies I enjoy working with:
 ![Kotlin](https://img.icons8.com/?size=80&id=pW9tHQnl55j4&format=png)
 
 ### Full Stack
-![MERN Stack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzZxSdsXADqLsAvi0ErXBtP4JEG-7f0iRQQ&usqp=CAU)
-
+![MERN Stack](https://www.tridentspark.com/wp-content/uploads/2023/07/mern-stack-icon-1.png)
 <!-- Add any other technologies you'd like to showcase -->
 
 Feel free to explore my repositories to see these technologies in action! 🌐
