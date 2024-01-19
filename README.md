@@ -35,13 +35,13 @@ Here are some of the technologies I enjoy working with:
 ![C](https://img.icons8.com/?size=48&id=40670&format=png) ![C++](https://img.icons8.com/?size=48&id=40669&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
 
 ### Web Development
-![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ![Tailwind](https://img.icons8.com/?size=80&id=WoopfRcDj3RF&format=png) ![Material UI](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAf/8Af/8Af/8Af/8Af/8Af/8Af/8Af/8AgP8Af/8Af/8Af/8Af/8Af/8Af/86kkgXAAAAEHRSTlMAE6ElfE8w/48GsfBl3cpAzToGrwAAAKBJREFUeAGlxyEMAWEYx+EfR7iN7abPND0JNs1U/YpENeXvjlNVTU/XTFOv99GTqiv2fu/m+u5pD40MEkw0gjmw2dviMmO6s+oILJRx9upJKuveq5tCl3gVCqHdh4p1XTqqImvs5YK1t8NL6LhuqozSOrHOpK03ekFbyhMvLbiqWME7FOsdvqqbJ0PpiOtLuXRKwKWSDh/+FlJFLS5HNPQD5C4+Qq11NNEAAAAASUVORK5CYII=) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
+![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ![Tailwind](https://img.icons8.com/?size=80&id=WoopfRcDj3RF&format=png) ![Material UI](https://mui.com/static/logo.png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
 
 ### Front-End
-![ReactJS](link-to-image)
+![ReactJS](https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png)
 
 ### Back-End
-![NodeJS](link-to-image) ![ExpressJS](link-to-image)
+![NodeJS](https://image.shutterstock.com/image-vector/node-js-version-7-framework-260nw-503131780.jpg) ![ExpressJS](https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png)
 
 ### Databases
 ![MongoDB](link-to-image) ![REDIS](link-to-image) ![MySQL](link-to-image)
