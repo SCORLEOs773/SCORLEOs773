@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <a href="https://app.daily.dev/SCORLEOs773"><img src="https://api.daily.dev/devcards/ba9a31e42547489e85b53affafd98594.png?r=9ov" width="400" alt="SUKHAD SHARMA's Dev Card"/></a>
+-->
 
 ## Tech Stacks 🚀
 
