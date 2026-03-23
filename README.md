@@ -10,7 +10,7 @@ In addition to my technical pursuits, I enjoy sharing my knowledge and insights 
 
 You can explore my repositories, where you'll find a mix of personal projects, contributions to open-source projects, and experiments. Don't hesitate to reach out if you have any questions, or ideas, or want to collaborate on something exciting!
 
-Let's connect and make an impact together! You can find me on ![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)[LinkedIn](https://www.linkedin.com/in/sukhadsharma/). Looking forward to engaging with like-minded individuals and creating awesome things. 🚀
+Let's connect and make an impact together! You can find me on [LinkedIn](https://www.linkedin.com/in/sukhadsharma/). Looking forward to engaging with like-minded individuals and creating awesome things. 🚀
 <!--
 **SCORLEOs773/SCORLEOs773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,7 +56,7 @@ Here are some of the technologies I enjoy working with:
 ![Kotlin](https://img.icons8.com/?size=80&id=pW9tHQnl55j4&format=png)
 
 ### Full Stack
-![MERN Stack](https://www.tridentspark.com/wp-content/uploads/2023/07/mern-stack-icon-1.png)
+![MERN Stack](https://cdn-icons-png.flaticon.com/128/13540/13540845.png)
 <!-- Add any other technologies you'd like to showcase -->
 
 Feel free to explore my repositories to see these technologies in action! 🌐
